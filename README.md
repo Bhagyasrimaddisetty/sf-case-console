@@ -4,7 +4,7 @@ Set-Content -Path "README.md" -Value @'
 A Lightning Web Component (LWC) built on Salesforce Developer Edition that displays a real-time case management dashboard inside the Sales app.
 
 ## Screenshot
-(Screenshot%2026-06-16%111424.png)
+![Screenshot](Screenshot%202026-06-16%20111424.png)
 
 ## Features
 - Live case data table using lightning-datatable
